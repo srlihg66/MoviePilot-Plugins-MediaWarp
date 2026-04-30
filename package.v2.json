@@ -1,0 +1,18 @@
+{
+    
+    "MediaWarp": {
+        "name": "MediaWarp",
+        "description": "EmbyServer/Jellyfin 中间件：优化播放 Strm 文件、自定义前端样式、自定义允许访问客户端、嵌入脚本。",
+        "labels": "302",
+        "version": "1.2.12",
+        "icon": "https://raw.githubusercontent.com/jxxghp/MoviePilot-Plugins/refs/heads/main/icons/cloud.png",
+        "author": "SR",
+        "level": 1,
+        "history": {
+			"v1.2.12": "增加win",
+			"v1.2.11": "增加tips",
+			"v1.2.10": "增加FNTV",
+            "v0.2.3": "使用官方文件配置"
+        }
+    }
+}
